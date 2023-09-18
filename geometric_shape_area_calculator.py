@@ -6,7 +6,7 @@ def main():
     circle_pi = math.pi # DO NOT MODIFY, this line of code is assigning the variable 'circle_pi' equal to Pi ~3.14
 
     # TODO: In terminal, print Welcome to the geometric shape area calculator!
-
+    print("Welcome to the geometric shape area calculator!")
     # User Options
     # Circle = 1
     # Rectangle = 2
